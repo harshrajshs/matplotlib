@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:
+  numbered: true
+chapters:
+- file: class_7_intro
+  sections:
+  - file: class_7_python_plotting_basics
+  - file: class_7_python_plotting_analysis
+  - file: class_7_python_plotting_future
